@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi, 👋  I'm <a href="https://github.com/BugCui" target="_blank">BugCui
 
-<!--
-**BugCui/BugCui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>Love Life,Love Share!</b></em>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/BugCui" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=BugCui&title_color=333&text_color=777" alt="BugCui's Stats" >
+  </a>
+</p>
+
+<h2></h2>
+

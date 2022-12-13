@@ -22,24 +22,8 @@
   <img src="https://img.shields.io/badge/JAVA-1.8+-green.svg" alt="visitor badge" /> 
   <img src="https://img.shields.io/github/followers/BugCui?style=social" alt="visitor badge" /> 
 </p>
-  
-<p>
-   <img src="https://raw.githubusercontent.com/BugCui/BugCui/output/github-contribution-grid-snake.svg" /> 
-</p>
+
+![](https://raw.githubusercontent.com/BugCui/BugCui/main/assets/github-contribution-grid-snake.svg)
 
   
 <h2></h2>
-
-  
- 
-![rfyiamcool's github stats](https://github-readme-stats.vercel.app/api?username=rfyiamcool&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfyiamcool&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/rfyiamcool/rfyiamcool/output/github-contribution-grid-snake.svg)
-
-<a href="https://github.com/rfyiamcool/go-tracer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rfyiamcool&repo=go-tracer&theme=buefy" />
-</a>
-<a href="https://github.com/rfyiamcool/go-netflow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rfyiamcool&repo=go-netflow&theme=buefy" />
-</a>

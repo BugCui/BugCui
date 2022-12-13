@@ -23,8 +23,9 @@
   <img src="https://img.shields.io/github/followers/BugCui?style=social" alt="visitor badge" /> 
 </p>
   
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/BugCui/BugCui/output/github-contribution-grid-snake.svg)
-
+<p>
+   <img src="https://raw.githubusercontent.com/BugCui/BugCui/output/github-contribution-grid-snake.svg" /> 
+</p>
 
   
 <h2></h2>

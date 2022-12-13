@@ -12,7 +12,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/BugCui" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=BugCui&title_color=333&theme=vue" alt="BugCui's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=BugCui&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue" alt="BugCui's Stats" >
   </a>
 </p>
   
@@ -23,3 +23,17 @@
 </p>
   
 <h2></h2>
+
+  
+ 
+![rfyiamcool's github stats](https://github-readme-stats.vercel.app/api?username=rfyiamcool&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfyiamcool&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/rfyiamcool/rfyiamcool/output/github-contribution-grid-snake.svg)
+
+<a href="https://github.com/rfyiamcool/go-tracer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rfyiamcool&repo=go-tracer&theme=buefy" />
+</a>
+<a href="https://github.com/rfyiamcool/go-netflow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rfyiamcool&repo=go-netflow&theme=buefy" />
+</a>

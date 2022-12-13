@@ -12,7 +12,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/BugCui" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=BugCui&title_color=333&text_color=777&theme=vue" alt="BugCui's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=BugCui&title_color=333&theme=vue" alt="BugCui's Stats" >
   </a>
 </p>
   

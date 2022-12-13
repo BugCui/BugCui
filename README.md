@@ -12,17 +12,20 @@
 <br>
 <p align="center">
   <a href="https://github.com/BugCui" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=BugCui&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue" alt="BugCui's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=BugCui&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue" alt="BugCui's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugCui&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue" alt="BugCui's Stats" >
   </a>
 </p>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugCui&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue)
-
   
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=BugCui" alt="visitor badge" /> 
   <img src="https://img.shields.io/badge/JAVA-1.8+-green.svg" alt="visitor badge" /> 
   <img src="https://img.shields.io/github/followers/BugCui?style=social" alt="visitor badge" /> 
 </p>
+  
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/BugCui/BugCui/output/github-contribution-grid-snake.svg)
+
+
   
 <h2></h2>
 

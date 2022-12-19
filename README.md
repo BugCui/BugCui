@@ -10,12 +10,9 @@
   * 📝 [ Sometimes I do some writing.](https://github.com/BugCui/read-think-write)
   
 <br>
-<p align="center">
-  <a href="https://github.com/BugCui" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=BugCui&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue" alt="BugCui's Stats" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugCui&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue" alt="BugCui's Stats" >
-  </a>
-</p>
+
+![rfyiamcool's github stats](https://github-readme-stats.vercel.app/api?username=BugCui&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugCui&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue)
   
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=BugCui" alt="visitor badge" /> 

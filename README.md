@@ -11,8 +11,8 @@
   
 <br>
 
-![rfyiamcool's github stats](https://github-readme-stats.vercel.app/api?username=BugCui&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugCui&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue)
+![rfyiamcool's github stats](https://github-readme-stats.vercel.app/api?username=BugCui&show_icons=true&count_private=true&line_height=40&hide_border=true&theme=vue&token=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)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BugCui&hide=html&exclude_repo=python_vim&hide_border=true&theme=vue&token=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)
   
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=BugCui" alt="visitor badge" /> 
